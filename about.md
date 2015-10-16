@@ -2,7 +2,7 @@
 layout: about
 path: /about
 url: index.html
-image: public/profile.jpg
+image: profile.jpg
 ---
 
 ## Overview
