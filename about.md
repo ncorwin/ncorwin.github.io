@@ -2,7 +2,7 @@
 layout: about
 path: /about
 url: index.html
-image: https://raw.githubusercontent.com/ncorwin/ncorwin.github.io/master/public/images/0728150955.jpg
+image: profile.jpg
 ---
 
 ## Overview

@@ -2,7 +2,7 @@
 layout: contact
 path: /contact
 url: index.html
-image: https://github.com/ncorwin/ncorwin.github.io/blob/master/public/images/0827151956a.jpg
+image: city.jpg
 ---
 
 ## To get in touch
