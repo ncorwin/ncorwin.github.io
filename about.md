@@ -2,19 +2,21 @@
 layout: about
 path: /about
 url: index.html
-image: http://unsplash.it/400?random
+image: https://photos-1.dropbox.com/t/2/AAC-Fa9UsmU2tZG-NBZEPXSlbNt3SSt13M2tGvk8sLvnSw/12/60692777/jpeg/32x32/1/_/1/2/0728150955.jpg/EKWx_i4Y6xAgASAHKAc/149pMTnPOjNUv2jHgCuLtC2J1loMkGh-5ep7Brn4n8s?size=1024x768&size_mode=2
 ---
 
 ## Overview
-Lorem ipsum dolor sit amet, purto tota in vel, exerci discere apeirian has in. Nec noster iracundia eu, utroque facilis ad has. Alii argumentum no his, omnis iusto scripta vim in, ipsum ridens mel at. Has homero phaedrum no, ea autem affert facilis usu, has possim meliore perpetua id. Errem iisque mea ex, option ocurreret no est. Sea facer ullamcorper ne, cu dictas discere repudiandae sea.
+Nathan has been working with robots for most of his educational career. 
 
-His nemore audiam consequat ad, no augue choro assueverit mei. Zril offendit tincidunt ne quo. At commodo integre alienum sea, cu vocent fuisset suscipit nam. Eum ex tation omnesque adversarium, mutat autem putant te nam. Id vix facilis complectitur, vis vitae vivendo euripidis ea, fugit eirmod an vix.
+He was first introduced to engineering through the FIRST robotics competition in high school home in Colorado, and from there studied Mechanical Engineering at Trinity College while taking every opportunity available to learn more about robotics. 
 
-Ad case nemore equidem mea. Duo te iuvaret appetere appellantur, sint scaevola usu cu. Eum ne aeque ridens prompta. At legendos vulputate eos, pro illum iuvaret cu, ludus vituperata usu no.
+He was a leader on Trinity's Robot Study team, and specifically lead design teams in Trinity's International Robot Contest for both the advanced Robowaiter and advanced Firefighting divisions. He also lead a design team in continuing development of an autonomous boat. Now, he is excited to hone his technical skills while formally studying robotics at Northwestern. 
 
-Mel magna discere in. Mea ea dicit homero perfecto. Eam nulla facete scribentur in. Vide volutpat laboramus est cu, usu cu impetus dignissim. Ex pro decore impetus. Ius nihil iisque deterruisset an, ex sanctus verterem his. Doming prompta insolens est ut.
+In addition to the engineering work, he made time to also study art and design during his undergraduate time, even getting a minor in studio arts and winning one of Trinity's art achievement awards. He works with a variety of mediums including charcoal, pastel, and CG drawing, woodworking, collage, and photography. 
+
+Outside of academics, he is an avid martial artist, having studied Kempo Karate for ten years and Iaido for four. He also enjoys snowboarding when the opportunity arises. 
 
 ### Research interests
-* Interest 1
-* Interest 2
-* Interest 3
+* Autonomous Navigation
+* Robotic Exoskeletons
+* Active Prosthetics
