@@ -3,10 +3,10 @@
   <channel>
     <title>Nathan Corwin Portfolio</title>
     <description>Portfolio for Nathan Corwin, a student in the MSR program at Northwestern University</description>
-    <link>http://localhost:4000/http://ncorwin.github.io//</link>
-    <atom:link href="http://localhost:4000/http://ncorwin.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 16 Oct 2015 11:09:28 -0500</pubDate>
-    <lastBuildDate>Fri, 16 Oct 2015 11:09:28 -0500</lastBuildDate>
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 16 Oct 2015 11:48:12 -0500</pubDate>
+    <lastBuildDate>Fri, 16 Oct 2015 11:48:12 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
   </channel>

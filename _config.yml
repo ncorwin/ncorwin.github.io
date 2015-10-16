@@ -2,11 +2,12 @@
 title:              Nathan Corwin Portfolio
 email:              nathancorwin2015@u.northwestern.edu
 description:        "Portfolio for Nathan Corwin, a student in the MSR program at Northwestern University"
-url:                "http://localhost:4000/"
-baseurl:            http://ncorwin.github.io/
+url:                "http://localhost:4000"
+baseurl:	    	/
+
 
 # File structure settings
-image_path:         /public/images
+image_path:         public/images
 
 # Build settings
 markdown:           kramdown

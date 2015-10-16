@@ -1,8 +1,8 @@
 ---
 layout: about
-path: /about
+path: about
 url: index.html
-image: profile.jpg
+image: profile_rotate.jpg
 ---
 
 ## Overview
