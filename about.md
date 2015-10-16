@@ -2,7 +2,7 @@
 layout: about
 path: /about
 url: index.html
-image: https://photos-1.dropbox.com/t/2/AAC-Fa9UsmU2tZG-NBZEPXSlbNt3SSt13M2tGvk8sLvnSw/12/60692777/jpeg/32x32/1/_/1/2/0728150955.jpg/EKWx_i4Y6xAgASAHKAc/149pMTnPOjNUv2jHgCuLtC2J1loMkGh-5ep7Brn4n8s?size=1024x768&size_mode=2
+image: https://raw.githubusercontent.com/ncorwin/ncorwin.github.io/master/public/images/0728150955.jpg
 ---
 
 ## Overview
