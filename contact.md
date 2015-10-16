@@ -2,7 +2,7 @@
 layout: contact
 path: /contact
 url: index.html
-image: city.jpg
+image: /public/city.jpg
 ---
 
 ## To get in touch
