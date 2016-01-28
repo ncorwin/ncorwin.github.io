@@ -16,7 +16,7 @@ The Brazil Nut effect this algorithm is based on describes the self sorting beha
 ## Videos
 The follwoing videos show the algorithim running on a kilobot simulator written by Professor Michael Rubenstein. 
 
-[![Playlist](//i.ytimg.com/vi/iB2ZI5-WMhI/mqdefault.jpg)](https://www.youtube.com/playlist?list=PLCdzwz9McX2M9hMtn8ja1Q7sg_Y_MAOyy)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLCdzwz9McX2M9hMtn8ja1Q7sg_Y_MAOyy" frameborder="0" allowfullscreen></iframe>
 
 ## Adapting to Kilobots
 When this algorithm was implemented on e-pucks[[1]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnw0OTVzd2FybXN8Z3g6YTgwYTQ0YTc2YjMyYjU1), light sensing was used for the attractive force and the distance and orientation to neighbors was sued for the repulsive force. To get a heterogeneous mixture, robots were assigned two different artificial radiuses that they used to determine if they were close enough to a neighbor to apply a repulsive force. 
