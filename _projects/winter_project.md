@@ -60,9 +60,9 @@ The solenoids are switched electronically using a relay. A 2 channel, 10A relay 
 For interfacing with Baxter, the relay must be controlled by a computer running ROS. This was accomplished with a PIC32 microcontroller. The PIC32 communicates with the ROS nodes running Baxter through a UART connection and uses two digital I/O pins to switch the relay. An LCD screen is used to display the state of each solenoid. The interface was accomplished with functions written in Python.
 
 # Files
-# Github
+## Github
 Code used in this project can be found at this project can be found in the Pick and Place repo under the jamming branch.
 [Here is the Github repo for the project](https://github.com/ncorwin/baxter_pick_and_place.git)
 
-# OnShape
+## OnShape
 All the CAD files were generated in OnShape and can be found [at this link](https://cad.onshape.com/documents/798c485c3d304adbcaf8d06d/w/19552d9e32e3a617390b64be/e/7b51707ea595ae28e7f03d6b).
