@@ -11,7 +11,7 @@ This was a group project for the ME495 Embedded Systems class at Northwestern. I
 ![Working on Baxter](/public/images/baxter_msr.jpg)
 
 ## Github
-[Here is the Github repo for the project](https://github.com/rikkimelissa/baxter_pick_and_place.git) The full project writeup is in the README.
+[Here is the Github repo for the project](https://github.com/ncorwin/baxter_pick_and_place.git) The full project writeup is in the README.
 
 ## Approach
 Our approach to the problem was to detect the position of the objects using AR tags and control Baxter's arm using inverse kinematics to position the gripper over the object. 
