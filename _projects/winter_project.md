@@ -1,12 +1,12 @@
 ---
 layout: project
-title: Designing and Prototyping a Baxter-Mounted Jamming Gripper
+title: Baxter-Mounted Jamming Gripper
 date: March 19, 2016
 image: jamming_iso.jpg
 ---
 
 # Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JBymLcyzt-8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKmmDffYYdw" frameborder="0" allowfullscreen></iframe>
 
 # Overview
 This project involved designing, developing, and prototyping a more versatile gripper that would be compatible with Rethink Robotics’ Baxter Robot. This project was inspired by my previous work on the Baxter Pick and Place  project. A Universal Jamming Gripper design was chosen because it correct a problem encountered during that project; grasping failing due to object orientation.
