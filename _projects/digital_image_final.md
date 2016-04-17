@@ -65,5 +65,5 @@ This is a demonstration that a user can write successfully on the screen with th
 # Files
 
 ## Github
-text
+
 [Here is the Github repo for the project](https://github.com/ncorwin/image_analisys_final.git)
