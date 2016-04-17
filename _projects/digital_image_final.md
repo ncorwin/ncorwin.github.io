@@ -2,7 +2,7 @@
 layout: project
 title: Live Video Masking with Gesture Input
 date: March 16, 2016
-image: nate.jpg
+image: nate.png
 ---
 
 # Demo
@@ -40,25 +40,25 @@ After the cv2.findContours() returns a suitably large contour and cv2.convexHull
 
 Demonstration of high density of red points at fingertip during pointing gesture:
 
-<img src="/public/images/contour_finger.jpg" alt="Fingertip Characterization" style="width: 400px;"/>
+<img src="/public/images/contour_finger.png" alt="Fingertip Characterization" style="width: 400px;"/>
 
 This demonstrates what we found by analyzing the convexity defect points of different gestures. For this pointing gesture, a large number of red points were displayed in a highly concentrated spot at the tip of the finger. This fact is used to detect this gesture specifically and track the fingertip. 
 
 Black Circle follows tracked fingertip: 
 
-<img src="/public/images/finger_detected.jpg" alt="Fingertip Detected" style="width: 400px;"/>
+<img src="/public/images/finger_detected.png" alt="Fingertip Detected" style="width: 400px;"/>
 
 Another intermediary step displayed a black circle at the detected fingertip. It only displayed if the pointing gesture was used, and it followed the fingertip accurately if the hand was moved in the frame. 
 
 Demonstrating Open Palm gesture not triggering tracked fingertip (black circle):
 
-<img src="/public/images/no_finger_detect.jpg" alt="Fingertip Not Detected" style="width: 400px;"/>
+<img src="/public/images/no_finger_detect.png" alt="Fingertip Not Detected" style="width: 400px;"/>
 
 This is the same step as the previous picture. The lack of black circle specifically demonstrated that the system can differentiate between this open palm gesture and the previous pointing gesture. This functionality is how the drawing is turned “on” and “off”. 
 
 Writing Example: 
 
-<img src="/public/images/hi.jpg" alt="Writing with the system" style="width: 400px;"/>
+<img src="/public/images/hi.png" alt="Writing with the system" style="width: 400px;"/>
 
 This is a demonstration that a user can write successfully on the screen with this system. If the open hand gesture had been falsely identified and tracked, there would be colored spots on the hand. 
 
