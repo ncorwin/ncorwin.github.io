@@ -28,13 +28,13 @@ By using this detection functionality, the system could reliably identify a poin
 # Outputs
 Video feed after Color thresholding and background extraction
 
-<img src="/public/images/bg.jpg" alt="After Color thresholding and background extraction" style="width: 400px;"/>
+<img src="/public/images/bg.png" alt="After Color thresholding and background extraction" style="width: 400px;"/>
 
 This is what is returned after the initial processing (my partner’s work primarily). The hand is mostly intact and isolated from the background. However, there is some leftover background noise. How much noise remains is largely a function of lighting conditions. 
 
 Raw video with detected Contour (blue) and convexity defect points (red) displayed:
 
-<img src="/public/images/bg_contour.jpg" alt="Detected Contour and Convexity Points" style="width: 400px;"/>
+<img src="/public/images/bg_contour.png" alt="Detected Contour and Convexity Points" style="width: 400px;"/>
 
 After the cv2.findContours() returns a suitably large contour and cv2.convexHull() finds the convexity defect points, an intermediary visualization step returns the raw video feed with the colour displayed in blue and the convexity defect points displayed in red. If no hand was in the frame, no red points or blue lines would show up on the screen because of the area threshold in place. 
 
@@ -46,7 +46,7 @@ This demonstrates what we found by analyzing the convexity defect points of diff
 
 Black Circle follows tracked fingertip: 
 
-<img src="/public/images/finger_detected.png" alt="Fingertip Detected" style="width: 400px;"/>
+<img src="/public/images/finger_detect.png" alt="Fingertip Detected" style="width: 400px;"/>
 
 Another intermediary step displayed a black circle at the detected fingertip. It only displayed if the pointing gesture was used, and it followed the fingertip accurately if the hand was moved in the frame. 
 
