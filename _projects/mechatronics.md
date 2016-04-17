@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Live Video Masking with Gesture Input
+title: Motor Control on Microcontroller
 date: March 16, 2016
 image: motor.png
 ---
