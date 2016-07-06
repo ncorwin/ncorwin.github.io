@@ -11,7 +11,7 @@ image: roomba.jpg
 
 # Overview
 
-This project was completed jointly with [Matt Cruz](http://matthewcruz.github.io/portfolio/projects/20160315ImageProject1/). The goal was to optimize the navigation of a roomba robot around two circular obstacles to a given destination.
+This project was completed jointly with [Matt Cruz](http://matthewcruz.github.io/portfolio/). The goal was to optimize the navigation of a roomba robot around two circular obstacles to a given destination.
 
 ## Setup
 
