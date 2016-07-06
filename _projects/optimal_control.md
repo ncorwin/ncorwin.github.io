@@ -18,10 +18,8 @@ This project was completed jointly with [Matt Cruz](http://matthewcruz.github.io
 The iLQR algorithm was primarily used for our optimal control. 
 
 At the heart of the control method is a cost function that incorporated quadratic costs imposed on the following:
-Deviation from desired trajectory 				(q-qd)TQ(q-qd)
-input/control signal for wheel velocities				uTRu
-Boundary functions associated with obstacles	C*[(x - x1)2+(y-y1)2 - (r1)2]-1
-Terminal condition error				( q[tf]-qd[tf])TP1(q[tf]-qd[tf])
+
+<img src="/public/images/eqn1.png" alt="Cost Function" style="width: 800px;"/>
 
 Where: {x1,y1} = boundary coord., rn= boundary radius, R = input cost coefficient, Q = error cost coefficient, q = state variables {x,y,theta, v1,v2}, qd = desired state variables f(t) (trajectory), tf = final time, C = obstacle cost coefficient.
 
