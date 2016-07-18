@@ -17,6 +17,8 @@ In addition to the engineering work, he made time to also study art and design d
 Outside of academics, he is an avid martial artist, having studied Kempo Karate for ten years and Iaido for four. He also enjoys snowboarding when the opportunity arises. 
 
 ### Research interests
+* Machine Vision
+* Augmented Reality
 * Autonomous Navigation
 * Robotic Exoskeletons
 * Active Prosthetics
