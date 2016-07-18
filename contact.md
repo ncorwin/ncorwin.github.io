@@ -6,7 +6,7 @@ image: city.jpg
 ---
 
 ## Personal Resume
-<iframe src="http://docs.google.com/gview?url=https://github.com/ncorwin/msr_portfolio/blob/master/public/images/nathan.resume.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+<iframe src="http://docs.google.com/gview?url=msr_portfolio/public/images/nathan.resume.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
 
 ## To get in touch
 Nathan can be contacted by phone or email as listed below. 
