@@ -16,6 +16,8 @@ The goal of the project was to design and implement the control system for an au
 # Design
 The boat was a pontoon-style design with a pair of thrusters under each pontoon. Rudders were designed and attached behind each thruster, and a waterproof housing was designed for the power supply and microcontroller. 
 
+<img src="/public/images/boat_1.jpg" alt="Completed Boat" style="width: 800px;"/>
+
 The boat was to navigate by given GPS coordinates, and used an onboard GPS to find a target heading to the given location. It then used an electronic compass to determine it's current heading, and a proportional controller on the rudders to steer towards the target heading. 
 
 ## Mechanical
@@ -29,3 +31,5 @@ The rudders were designed in Solidworks and 3D printed. They were attached to th
 
 ## Electronics
 The rudders, GPS and compass were controlled with an Arduino Uno Microcontroller, and the thrusters were controlled through an H-Bridge.
+
+Some work was done to implement obstacle avoidance using distance sensors on the front of the boat, but due to time constraints, this was not completed durring this project. Presumably it will be worked on by future student teams at Trinity. 
