@@ -2,7 +2,7 @@
 layout: project
 title: Design of Autonomous Boat Control System
 date: April 10, 2015
-image: boat.jpg
+image: boat.png
 ---
 
 # Demo
@@ -21,11 +21,11 @@ The boat was to navigate by given GPS coordinates, and used an onboard GPS to fi
 ## Mechanical
 The boat used a pair of Seabotix BT-150 thrusters and was powered by a 12V car battery. 
 
-<img src="/public/images/boat_rudder_cad.jpg" alt="Solidworks Model of Boat and Rudders" style="width: 400px;"/>
+<img src="/public/images/boat_rudder_cad.png" alt="Solidworks Model of Boat and Rudders" style="width: 400px;"/>
 
 The rudders were designed in Solidworks and 3D printed. They were attached to the boat by adapting the existing structure, and their angle was controlled by waterproof Traxxas 2075 servos.
 
 <img src="/public/images/boat_rudder.jpg" alt="Printed rudders on boat" style="width: 800px;"/>
 
-##Electronics
+## Electronics
 The rudders, GPS and compass were controlled with an Arduino Uno Microcontroller, and the thrusters were controlled through an H-Bridge.
