@@ -2,7 +2,7 @@
 layout: project
 title: Design of Autonomous Boat Control System
 date: April 10, 2015
-image: boat.png
+image: boat.jpg
 ---
 
 # Demo
