@@ -6,7 +6,17 @@ image: dod_bath.jpg
 ---
 
 # Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKmmDffYYdw" frameborder="0" allowfullscreen></iframe>
+
+DOD and Gantry operationd durring Automated Droplet Testing
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bl--NIhCNSE" frameborder="0" allowfullscreen></iframe>
+
+Exparamental Results: 
+
+3 Dropltes moving in a transverse field
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfSvi7uTxAQ" frameborder="0" allowfullscreen></iframe>
+
+3 Droplets maving in a circular field
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LKNJ_vhuL9Q" frameborder="0" allowfullscreen></iframe>
 
 # Project Overview
 Effective control of small liquid volumes drives enabling technology in many important fields that are vital to the well being and advancement of society including medicine, chemistry, and biology; examples include screening for drug efficacy and interaction, ecological and biological contaminants, and gene expression.
@@ -15,7 +25,7 @@ Effective control of small liquid volumes drives enabling technology in many imp
 
 This project’s focus is on levitation and manipulation of small liquid droplets using vibration. Vertical vibration of a flat surface will be used to suspend droplets above the surface on a thin layer of air, while horizontal vibrations will move drops across the surface. The work relies on the closely related field of frictional manipulation, and on the laboratory’s unique vibratory platform (PPOD) that is capable of generating arbitrary programmable 6-degree-of-freedom vibration patterns.
 
-<img src="/public/images/dod_top_drops.png" alt="Three droplets being levitated and manipulated using mechanical vibration of a thin fluid layer, top view" style="width: 800px;"/>
+<img src="/public/images/dod_top_drops2.png" alt="Three droplets being levitated and manipulated using mechanical vibration of a thin fluid layer, top view" style="width: 800px;"/>
 
 Previous students have contributed significant work to this project already. The development of the PPOD and the Droplet On Demand (DOD) generator were both contributions from past researchers. My focus in this project is primarily to develop a two dimension positioning system for the DOD generator and further development and refinement of the automated droplet testing procedures.
 
@@ -306,6 +316,8 @@ Possible future work on this project
 
 Configuration of system showing all relevant systems and their communications
 
-<img src="/public/images/Complete_Diagram.png" alt="Wiring and Communication Diagram"/>
+<img src="/public/images/Complete_Diagram.png" alt="Wiring and Communication Diagram "style="width: 2000px;"/>
 
-<img src="/public/images/Automated_Droplet_Flow_Chart.jpg" alt="Automated Droplet Testing Flowchart"/>
+Flowchart of automated droplet testing
+
+<img src="/public/images/Automated_Droplet_Flow_Chart.jpg" alt="Automated Droplet Testing Flowchart "style="width: 2000px;"/>
