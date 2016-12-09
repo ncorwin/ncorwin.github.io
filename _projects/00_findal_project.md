@@ -316,8 +316,8 @@ Possible future work on this project
 
 Configuration of system showing all relevant systems and their communications
 
-<img src="/public/images/Complete_Diagram.png" alt="Wiring and Communication Diagram " style="width: 2000px;"/>
+<img src="/public/images/Complete_Diagram.png" alt="Wiring and Communication Diagram" style="width: 2000px;"/>
 
 Flowchart of automated droplet testing
 
-<img src="/public/images/Automated_Droplet_Flow_Chart.jpg" alt="Automated Droplet Testing Flowchart " style="width: 2000px;"/>
+<img src="/public/images/Automated_Droplet_Flow_Chart.jpg" alt="Automated Droplet Testing Flowchart" style="width: 2000px;"/>
