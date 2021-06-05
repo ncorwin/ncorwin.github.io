@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta charset="utf-8">
+
+	<title>Natalie Corwin Portfolio</title>
+	<link rel="icon" type="image/png" href="/public/images/msr-student-template-favicon.png">
+
+	<link rel="stylesheet" href="/public/stylesheets/style.css">
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+</head>
+
+
+  <body>
+
+    <div id="wrapper">
+
+      <header>
+    <nav>
+    	<a href="/"><h1>Natalie Corwin</h1></a>
+    	<ul>
+    		<li><a href="/">Portfolio</a></li>
+    		<li><a href="/about/">About</a></li>
+    		<li><a href="/contact/">Contact</a></li>
+    	</ul>
+    </nav>
+</header>
+
+
+      <main class="project">
+	<section id="contact-content">
+		<img id="project-image" src="/public/images/boat.jpg">
+		<h1 id="project-title">Design of Autonomous Boat Control System</h1>
+		<h2 id="project-date">April 10, 2015</h2>
+
+		<h1 id="demo">Demo</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XpVNH83uMno" frameborder="0" allowfullscreen=""></iframe>
+
+<h1 id="overview">Overview</h1>
+<p>This project was my Senior Design project at Trinity College to complete my BS in Engineering.</p>
+
+<p>The goal of the project was to design and implement the control system for an autonomous watercraft. This was part of a legacy project at Trinity: Each year, new student teams would work on the overall project. The goal being to be able to compete in the AUVSI Foundation’s annual Roboboat competition.</p>
+
+<h1 id="design">Design</h1>
+<p>The boat was a pontoon-style design with a pair of thrusters under each pontoon. Rudders were designed and attached behind each thruster, and a waterproof housing was designed for the power supply and microcontroller.</p>
+
+<p><img src="/public/images/boat_1.jpg" alt="Completed Boat" style="width: 800px;" /></p>
+
+<p>The boat was to navigate by given GPS coordinates, and used an onboard GPS to find a target heading to the given location. It then used an electronic compass to determine it’s current heading, and a proportional controller on the rudders to steer towards the target heading.</p>
+
+<h2 id="mechanical">Mechanical</h2>
+<p>The boat used a pair of Seabotix BT-150 thrusters and was powered by a 12V car battery.</p>
+
+<p><img src="/public/images/boat_rudder_cad.png" alt="Solidworks Model of Boat and Rudders" style="width: 400px;" /></p>
+
+<p>The rudders were designed in Solidworks and 3D printed. They were attached to the boat by adapting the existing structure, and their angle was controlled by waterproof Traxxas 2075 servos.</p>
+
+<p><img src="/public/images/boat_rudder.jpg" alt="Printed rudders on boat" style="width: 800px;" /></p>
+
+<h2 id="electronics">Electronics</h2>
+<p>The rudders, GPS and compass were controlled with an Arduino Uno Microcontroller, and the thrusters were controlled through an H-Bridge.</p>
+
+<p>Some work was done to implement obstacle avoidance using distance sensors on the front of the boat, but due to time constraints, this was not completed durring this project. Presumably it will be worked on by future student teams at Trinity.</p>
+
+
+	</section>
+
+</main>
+
+
+      <footer>
+    <ul>
+    	<li>nhcorw@gmail.com</li>
+    	<li>Tolland, Connecticut</li>
+    	<li>(719) 502-7740</li>
+    </ul>
+</footer>
+
+
+
+    </div>
+
+  </body>
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta charset="utf-8">
+
+	<title>Natalie Corwin Portfolio</title>
+	<link rel="icon" type="image/png" href="/public/images/msr-student-template-favicon.png">
+
+	<link rel="stylesheet" href="/public/stylesheets/style.css">
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+</head>
+
+
+  <body>
+
+    <div id="wrapper">
+
+      <header>
+    <nav>
+    	<a href="/"><h1>Natalie Corwin</h1></a>
+    	<ul>
+    		<li><a href="/">Portfolio</a></li>
+    		<li><a href="/about/">About</a></li>
+    		<li><a href="/contact/">Contact</a></li>
+    	</ul>
+    </nav>
+</header>
+
+
+      <main class="project">
+	<section id="contact-content">
+		<img id="project-image" src="/public/images/motor.png">
+		<h1 id="project-title">Motor Control on Microcontroller</h1>
+		<h2 id="project-date">March 16, 2016</h2>
+
+		<h1 id="demo">Demo</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sj4F_KTDahM" frameborder="0" allowfullscreen=""></iframe>
+
+<h1 id="overview">Overview</h1>
+<p>This project involved using a PIC32 microcontroller and MatLab to control the motion of a DC motor. The final project could be commanded to any angle and could follow a trajectory fairly accuratly.</p>
+
+<p><img src="/public/images/annotated_flowchart.jpg" alt="Flowchart of Project" style="width: 400px;" /></p>
+
+<h1 id="trajectories">Trajectories</h1>
+<p>The trajectories were generated in Matlab and sent to the PIC for the motor to folow. both step and cubic trajectoies were used. After completing the trajectory, the PIC would record the motor’s actual trajectory and send it back to MatLab for comparison to the input.</p>
+
+<p>Example trajectory graphs below. The red line is the motor’s actual trajectory, and the blue line is the generated trajectory input to the motor.</p>
+
+<p><img src="/public/images/step.jpg" alt="Example Step trajectory" style="width: 400px;" /></p>
+
+<p><img src="/public/images/cubic.jpg" alt="Example Cubic trajectory" style="width: 400px;" /></p>
+
+<h1 id="files">Files</h1>
+
+<h2 id="github">Github</h2>
+
+<p><a href="https://github.com/ncorwin/motor_controller.git">Here is the Github repo for the project</a></p>
+
+
+	</section>
+
+</main>
+
+
+      <footer>
+    <ul>
+    	<li>nhcorw@gmail.com</li>
+    	<li>Tolland, Connecticut</li>
+    	<li>(719) 502-7740</li>
+    </ul>
+</footer>
+
+
+
+    </div>
+
+  </body>
+</html>
